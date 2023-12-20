@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "azucar",
+        "description": "para la diabetes",
+        "price": 150,
+        "image": "Sin imagen",
+        "code": "abc125",
+        "stock": 30
+    },
+    {
+        "id": 2,
+        "title": "pan",
+        "description": "nunca se pone feo",
+        "price": 100,
+        "image": "Sin imagen",
+        "code": "abc126",
+        "stock": 80
+    },
+    {
+        "id": 3,
+        "title": "leche",
+        "description": "ordeñada de almendras",
+        "price": 500,
+        "image": "Sin imagen",
+        "code": "abc127",
+        "stock": 35
+    },
+    {
+        "id": 4,
+        "title": "Huevos",
+        "description": "de gallinas felices",
+        "price": 800,
+        "image": "Sin imagen",
+        "code": "abc128",
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "title": "cafe",
+        "description": "instantaneo, no es cafe",
+        "price": 500,
+        "image": "Sin imagen",
+        "code": "abc129",
+        "stock": 40
+    },
+    {
+        "id": 6,
+        "title": "pasta",
+        "description": "al huevo pero sin huevo",
+        "price": 100,
+        "image": "Sin imagen",
+        "code": "abc130",
+        "stock": 80
+    },
+    {
+        "id": 7,
+        "title": "chocolate",
+        "description": "amargo como tu ex",
+        "price": 900,
+        "image": "Sin imagen",
+        "code": "abc131",
+        "stock": 30
+    },
+    {
+        "id": 8,
+        "title": "Yogur",
+        "description": "natural",
+        "price": 1000,
+        "image": "Sin imagen",
+        "code": "abc132",
+        "stock": 70
+    },
+    {
+        "id": 9,
+        "title": "queso",
+        "description": "mozzarella",
+        "price": 500,
+        "image": "Sin imagen",
+        "code": "abc133",
+        "stock": 60
+    },
+    {
+        "id": 10,
+        "title": "miel",
+        "description": "de abejas",
+        "price": 500,
+        "image": "Sin imagen",
+        "code": "abc134",
+        "stock": 30
+    }
+]
